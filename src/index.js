@@ -2,7 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
 import reportWebVitals from "./reportWebVitals";
-import "tachyon";
+import "tachyons";
 import App from "./container/App";
 import "./container/App.css";
 
